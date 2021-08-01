@@ -1,0 +1,4 @@
+[submodule "sub-module"]
+	path = sub-module
+	url = https://github.com/nyandora/sub-module.git
+	branch = master
